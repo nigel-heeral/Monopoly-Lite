@@ -1,0 +1,61 @@
+Go
+-200
+0
+Mediterranean Ave
+60
+15
+Baltic Ave
+60
+20
+Oriental Ave
+100
+30
+Vermont Ave
+100
+30
+Connecticut Ave
+120
+40
+St. Charles Pl
+140
+50
+Chance
+0
+0
+Virginia Ave
+150
+60
+St. James Place
+200
+50
+Syracuse University
+250 
+30
+New York Ave
+210 
+70
+Kentucky Ave
+220
+100
+Indiana Ave
+210
+70
+Illinois Ave
+230 
+110
+Communtity Chest
+0
+0
+North Carolina Ave
+300
+150
+Pennsylvania Ave
+320
+160
+Park Place
+350
+200
+Boardwalk
+400
+250
+
